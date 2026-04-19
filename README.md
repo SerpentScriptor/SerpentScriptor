@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">AIML Developer | Machine Learning • Deep Learning • NLP • Computer Vision<br><br>🔭 I’m currently working on Artificial Intelligence Projects.<br>👯 I’m looking to collaborate on Chatbot Projects.<br>🤝 I’m looking for help with Neural Network Concepts.<br>💬 Ask me about NLP and Computer Vision.<br>📫 How to reach me @ayush.apoplectic@gmail.com.</p>
+<p align="left">AIML Developer | Machine Learning • Deep Learning • NLP • Computer Vision<br><br>🔭 I’m currently working on Artificial Intelligence Projects.<br>👯 I’m looking to collaborate on Chatbot Projects.<br>🤝 I’m looking for help with Neural Network Concepts.<br>💬 Ask me about NLP and Computer Vision.<br>📫 How to reach me @official.ayushchandra@gmail.com.</p>
 
 ###
 
