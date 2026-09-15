@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">AIML Engineer | Deep Learning • Computer Vision • LLM Systems • Agentic AI • GenAI |<br><br>📫 How to reach me - <a href="mailto:official.ayushchandra@gmail.com"></a>
-official.ayushchandra@gmail.com.</p>
+<p align="left">AIML Engineer | Deep Learning • Computer Vision • LLM Systems • Agentic AI • GenAI |<br><br>📫 How to reach me - 
+official.ayushchandra@gmail.com.</p> <a href="mailto:official.ayushchandra@gmail.com"></a>
 
 ###
 
