@@ -3,7 +3,7 @@
 ###
 
 <p align="left">AIML Engineer | Deep Learning • Computer Vision • LLM Systems • Agentic AI • GenAI |<br><br>📫 How to reach me - 
-official.ayushchandra@gmail.com.</p> 
+official.ayushchandra@gmail.com</p> 
 
 ###
 
