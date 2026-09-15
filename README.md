@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">AIML Developer | Machine Learning • Deep Learning • NLP • Computer Vision<br><br>📫 How to reach me official.ayushchandra@gmail.com.</p>
+<p align="left">AIML Engineer | Deep Learning • Computer Vision • LLM Systems • Agentic AI • GenAI <br><br>📫 How to reach me official.ayushchandra@gmail.com.</p>
 
 ###
 
-<p align="left">SKILL STACKS BELOW -_-</p>
+<p align="left">SKILL STACKS BELOW -</p>
 
 ###
 
